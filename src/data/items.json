@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 5,
+      "imgUrl": "/imgs/apple.jpg",
+      "description": "One apple a day keeps doctor away."
+    },
+    {
+      "id": 2,
+      "name": "Cherry",
+      "price": 7,
+      "imgUrl": "/imgs/cherry.jpg",
+      "description": "Ding dong!"
+    },
+    {
+      "id": 3,
+      "name": "Pineapple",
+      "price": 18,
+      "imgUrl": "/imgs/pineapple.jpg",
+      "description": "It's pointy, dont get hurt"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "price": 20,
+      "imgUrl": "/imgs/strawberry.jpg",
+      "description": "Maybe sweet, maybe sour. Test your luck!"
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "price": 8,
+      "imgUrl": "/imgs/banana.jpg",
+      "description": "For consumption only. Not for other purposes."
+    }
+  ]
