@@ -18,7 +18,7 @@ const About = () => {
           </p>
           <footer className="blockquote-footer">
             Mr. Jason Smith, Founder of {""}
-            <cite title="Source Title">Happy Fruit Store</cite>
+            <cite>Happy Fruit Store</cite>
           </footer>
         </blockquote>
       </Card.Body>
