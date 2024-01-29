@@ -5,7 +5,7 @@ const About = () => {
     <Card>
       <Card.Img
         variant="top"
-        src="../public/imgs/farmer.jpg"
+        src="public/imgs/farmer.jpg"
         height="500px"
         style={{ objectFit: "cover" }}
       />
