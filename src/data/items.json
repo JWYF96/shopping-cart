@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "name": "Cherry",
+      "name": "Cherry (Half pound)",
       "price": 7,
       "imgUrl": "/imgs/cherry.jpg",
       "description": "Ding dong!"
@@ -22,7 +22,7 @@
     },
     {
       "id": 4,
-      "name": "Strawberry",
+      "name": "Strawberry (Half pound)",
       "price": 20,
       "imgUrl": "/imgs/strawberry.jpg",
       "description": "Maybe sweet, maybe sour. Test your luck!"
