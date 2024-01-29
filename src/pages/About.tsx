@@ -1,11 +1,12 @@
 import { Card } from "react-bootstrap";
+import farmer from "/public/imgs/farmer.jpg";
 
 const About = () => {
   return (
     <Card>
       <Card.Img
         variant="top"
-        src="public/imgs/farmer.jpg"
+        src={farmer}
         height="500px"
         style={{ objectFit: "cover" }}
       />
